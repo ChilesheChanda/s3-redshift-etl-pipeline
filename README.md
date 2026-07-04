@@ -102,7 +102,6 @@ This runs the ETL job daily at 06:00 UTC.
 
 ## How to Run
 
-### 1. Initialise Terraform
 ```bash
 terraform init
 terraform plan
